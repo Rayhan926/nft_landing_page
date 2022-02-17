@@ -1,4 +1,5 @@
-import '../styles/globals.css'
+import 'swiper/css';
+import '../styles/globals.css';
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
